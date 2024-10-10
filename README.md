@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Kanyal</h1>
 <h3 align="center">Aspiring Software Engineer and Machine Learning Enthusiast</h3>
-
-<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/21101816?v=4">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kiran-kanyal&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-kanyal" />
 </p>
