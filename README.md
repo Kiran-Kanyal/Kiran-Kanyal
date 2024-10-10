@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Kanyal</h1>
 <h3 align="center">An Aspiring Software Engineer Passionate About Artificial Intelligence and Web Development.</h3>
-<img align = "right" alt="Coding" width="400" src ="https://image.lexica.art/full_jpg/a2b12d3c-6190-4fd4-81cd-e74002a3a625">
+<img align = "right" alt="Coding" width="400" src ="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-kanyal&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-kanyal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
