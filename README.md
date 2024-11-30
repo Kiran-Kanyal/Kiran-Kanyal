@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Kanyal</h1>
-<h3 align="center">Aspiring Software Engineer and Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 <p align="center">I am passionate about crafting innovative solutions using AI and exploring the depths of deep learning. Currently diving into exciting projects to enhance my skills!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-kanyal&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-kanyal" /> </p>
