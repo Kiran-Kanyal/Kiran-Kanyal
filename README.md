@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Kanyal</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
-<p align="center"></p>
+<p align="center">Junior at GEHU Dehradun, I am passionate about solving real-world problems, particulary leveraging the advancement in AI and Machine Learning.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-kanyal&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-kanyal" /> </p>
 
