@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Kanyal</h1>
+ <h1 align="center">Hi 👋, I'm Kiran Kanyal</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 <p align="center">I am passionate about solving real-world problems, particulary leveraging the advancement in AI and Machine Learning.</p>
 
@@ -7,10 +7,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **kirankanyal13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kiran-kanyal-3899b4239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-kanyal-3899b4239" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/kirankanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirankanyal" height="30" width="40" /></a> -->
 </p>
 
